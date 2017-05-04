@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_de38e1738a31961697fce2b29db1024112c1cefd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_d1c108da8e9276a25ded4f65522265d0b6082b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_83b9431318833c3cd9caa44861ed9cc1dc9ca416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_1102cda436f9015f5759ff16c44bbe6a3f0dfc27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_e6e2be2aa3861cf4073bbad7718f3b69b7745491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.8.0_832568db39efd1b209e245ad2cfe0fe2c4a58881.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_50c18c58012fff363e8548cd6d2014e494449395.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_0fc769f6c7cf45b510bdccd557caf87788a862a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_cf8589f56da66c6b160f31814e922947b10fd4b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_fdfb6f5f72aba041c89598d3cee8416623a357a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_733e6de25eec6c86520cf3d41469d8c8e38ef643.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_f42cd6a0b1e722c6ba554b8c7760d05a9fe9f12a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_fa808461a72dbae5efab049a6cbe543afaa1d235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="E:\App Development\Easy-Ocr-Scanner-Android-master\CallViaScan\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_a9fbe42e0ac7b2d9a6f0d698d80e0824f06406c0.jar" />
+    </item>
+
+</items>
